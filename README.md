@@ -13,10 +13,8 @@ Um aplicativo de musculação que oferecerá rotinas de exercícios, planos de t
 
   ## 📱Funcionalidades do Projeto
   
-  - [ ] Login 
+  - [ ] Login (Ainda sem link com banco de dados)
   - [x] NavBar
-  - [ ] Edição dos Treinos
-  - [ ] Página de Saúde
 
    ## 🖥️Layout
    ![Login](./assets/Login.JPG)
