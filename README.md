@@ -24,7 +24,7 @@ Um aplicativo de musculação que oferecerá rotinas de exercícios, planos de t
    ![Treino](./assets/Treino.JPG)
    
   ##  Como rodar este projeto?
-  ...bash
+  ```bash
   # Clone este repositório
   $ git clone linkrepo
   
@@ -36,7 +36,7 @@ Um aplicativo de musculação que oferecerá rotinas de exercícios, planos de t
   
   # Execute o aplicativo
   $ yarn start
-  ...
+  ```
   
   ## Tecnologias Utilizadas
   1. [React](https://reactnative.dev)
