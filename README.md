@@ -11,17 +11,17 @@ Um aplicativo de musculação que oferecerá rotinas de exercícios, planos de t
   - <a href="#autor">Autor</a>
   - <a href="#passos">Próximos Passos</a>
 
-  ## 📱Funcionalidades do Projeto
+## 📱Funcionalidades do Projeto
   
   - [ ] Login (Ainda sem link com banco de dados)
   - [x] NavBar
 
-   ## 🖥️Layout
+ ## 🖥️Layout
    ![Login](./assets/Login.JPG)
    ![home](./assets/home.jpg)
    ![Treino](./assets/Treino.JPG)
    
-  ##  Como rodar este projeto?
+##  Como rodar este projeto?
   ```bash
   # Clone este repositório
   $ git clone linkrepo
@@ -36,17 +36,18 @@ Um aplicativo de musculação que oferecerá rotinas de exercícios, planos de t
   $ yarn start
   ```
   
-  ## Tecnologias Utilizadas
+## Tecnologias Utilizadas
   1. [React](https://reactnative.dev)
   2. [Yarn](https://classic.yarnpkg.com/en/docs/cli/run)
   3. [Node](https://nodejs.org/en)
   4. [Expo](https://docs.expo.dev/get-started/installation/)
 
- ## Autor
+## Autor
  - George José (Monteskieu)
- [Linkedin](https://www.linkedin.com) (Ainda vou colocar o link certo)
  
- ## Próximos passos
+  [Linkedin](https://www.linkedin.com) (Ainda vou colocar o link certo)
+ 
+## Próximos passos
  
  - [ ] Editar Treinos
  - [ ] Login 
