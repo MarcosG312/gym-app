@@ -20,7 +20,7 @@ Um aplicativo de musculação que oferecerá rotinas de exercícios, planos de t
 
    ## 🖥️Layout
    ![Login](./assets/Login.JPG)
-   ![home](./assets/home.JPG)
+   ![home](./assets/home.jpg)
    ![Treino](./assets/Treino.JPG)
    
   ##  Como rodar este projeto?
