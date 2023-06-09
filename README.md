@@ -1,4 +1,4 @@
-# Projeto - Aplicativo de musculação 0.1
+# Projeto - Aplicativo de musculação 0.2
 
 ![Halter](./assets/Halter.JPG)
 Um aplicativo de musculação que oferecerá rotinas de exercícios, planos de treinamento e rastreamento de progresso para ajudar os usuários.
@@ -13,7 +13,8 @@ Um aplicativo de musculação que oferecerá rotinas de exercícios, planos de t
 
 ## 📱Funcionalidades do Projeto
   
-  - [ ] Login (Ainda sem link com banco de dados)
+  - [x] Login
+  - [x] Cadastro
   - [x] NavBar
 
  ## 🖥️Layout
@@ -43,13 +44,13 @@ Um aplicativo de musculação que oferecerá rotinas de exercícios, planos de t
   4. [Expo](https://docs.expo.dev/get-started/installation/)
 
 ## Autor
- - George José (Monteskieu)
- 
-  [Linkedin](https://www.linkedin.com) (Ainda vou colocar o link certo)
+ - Gabriel Pacheco Farias (01427378)
+ - George José Cesar da Silva (01430653)
+ - Israel Allan Vilela Viegas (01433868)
+ - Marcos Antônio Ferreira Guimarães (01405752)
+ - Pedro Augusto Cardoso Silva (01403875)
  
 ## Próximos passos
  
  - [ ] Editar Treinos
- - [ ] Login 
- - [ ] Cadastro
  - [ ] Perfil
